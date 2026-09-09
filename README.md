@@ -1,6 +1,4 @@
-<a href="https://github.com/MajidMehrnia">
-  <img width="1238" height="609" alt="Industrial Heat Pump System" src="https://github.com/user-attachments/assets/a46cd8e8-9f8f-4471-a358-34e232e8c530" />
-</a>
+
 
 ## Description
 This repository delivers a comprehensive, systems-engineering framework for thermal management, designed specifically to tackle the thermodynamic challenges of operating in high-temperature, high-humidity tropical environments. The project bridges the gap between complex multi-physics engineering and strategic product lifecycle governance. To provide a clean, modular overview, the technical documentation and artifacts are divided into two distinct sections: 
@@ -36,7 +34,7 @@ You can also utilise the Excel-based PLM workflow here: 📥 [Download PLM Perfo
 
 This PLM Dashboard is structured into 7 core sheets (including **Doc. Management**, **EBOM & MBOM Management**, **Change Management**, **Validation & Release Management**, **Risk Management**, **Cost Benefit Analysis**, and an **Executive Reporting Dashboard**) establishing a "Single Source of Truth" to bridge technical execution and executive transparency with business profitability.
 
-## Design & Validation: Centrifugal Compressor System 
+## Design & Validation 
 
 The compressor models simulated in this work are representative of various industrial and thermal management compressor technologies, including **Centrifugal Compressors** and industrial heat pump compressors commonly used in process cooling and high-capacity heat pump applications. Two different modeling approaches are employed: (i) a simplified 1D map-based model; and (ii) a hybrid 3D-to-1D reduced-order modeling approach.
 
