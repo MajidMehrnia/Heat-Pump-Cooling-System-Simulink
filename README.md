@@ -20,12 +20,12 @@ The complete executable models and the underlying management tool are available 
 * Access the Simulink and GT-SUITE co-simulation files in the [Simulation](input_data) and [Results](results) directories.
 * Utilize the integrated lifecycle management workbook here: [PLM Performance Dashboard](https://github.com/MajidMehrnia/Systems-Strategy-and-Lifecycle-Leadership/raw/main/PLM-Performance-Dashboard.xlsx)
 
-## Strategic Governance & Lifecycle Execution: from Idea to Aftermarket
+## Strategic Governance & Lifecycle Execution: from Customer Demand to Aftersales
 
-#### End-to-End NPI Workflow: 
+#### End-to-End NPI/NPD Workflow: 
 
 <p align="center">
-  <img width="619" height="278" alt="image" src="https://github.com/user-attachments/assets/e4968066-b54e-45fb-a31e-076e1381dcfe" />
+ <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/daa84ec0-1e52-4fbd-b61a-85f9bd4f4fc4" />
 </p>
 
 
