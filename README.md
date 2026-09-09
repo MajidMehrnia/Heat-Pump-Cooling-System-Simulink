@@ -25,7 +25,7 @@ The complete executable models and the underlying management tool are available 
 #### End-to-End NPI/NPD Workflow: 
 
 <p align="center">
- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/daa84ec0-1e52-4fbd-b61a-85f9bd4f4fc4" />
+ <img width="1267" height="703" alt="image" src="https://github.com/user-attachments/assets/735892a3-fd9d-4ce8-bfbb-678039c29123" />
 </p>
 
 
