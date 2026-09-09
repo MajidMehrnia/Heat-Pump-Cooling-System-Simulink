@@ -49,7 +49,7 @@ The following figure illustrates a typical centrifugal compressor map used for m
 
  
 <p align="center">
-  <strong>1D Centrifugal Compressor Simulation</strong>
+  <strong>1D Industrial Compressor Simulation</strong>
 <p align="center">
 <img width="537" height="278" alt="CompressorMapExample_05" src="https://github.com/user-attachments/assets/6c6b552a-174d-4494-b3c3-678262877813" />
 
