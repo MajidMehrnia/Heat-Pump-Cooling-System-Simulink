@@ -33,7 +33,7 @@ This PLM Dashboard is structured into 7 core sheets (including **Doc. Management
 
 ## Design & Validation 
 
-The compressor models simulated in this work are representative of various industrial and thermal management compressor technologies, including **Centrifugal Compressors** and industrial heat pump compressors commonly used in process cooling and high-capacity heat pump applications. Two different modeling approaches are employed: (i) a simplified 1D map-based model; and (ii) a hybrid 3D-to-1D reduced-order modeling approach.
+The compressor models simulated in this work are representative of various industrial and thermal management compressor technologies, including Screw or Centrifugal Compressors and industrial heat pump compressors commonly used in process cooling and high-capacity heat pump applications. Two different modeling approaches are employed: (i) a simplified 1D map-based model; and (ii) a hybrid 3D-to-1D reduced-order modeling approach.
 
 
 
